@@ -8,12 +8,6 @@ A HTML project focusing on a website dedicated to Real Estate Listings and Prope
 
 </div>
 
-<br />
-
-### Demo Screeshots
-
-![Cubicles Desktop Demo]("C:\Users\tanya\Downloads\Page1.jpeg" "Desktop Demo")
-
 ### License
 
 This project is **free to use** and does not contains any license.
